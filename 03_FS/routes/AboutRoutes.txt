@@ -1,0 +1,19 @@
+
+App will be created for Users, Auth, Pofile, Post
+
+1.App should be able to ble to SignUp user and store data into user collection
+//Authentication Process
+2. App should be able to take userName and Password and verify them and 
+
+//Authenticate
+3. If users is already registered then we should send them message"already Registered"
+
+Authentication Process
+1. App should be able to take userName and password, verify them and 
+Authenticate
+
+//Cretae Profile
+User should be able to cretae profile
+App should not allow to duplicate the profile
+
+//user can post messageUser can create or post msg as wll as liked

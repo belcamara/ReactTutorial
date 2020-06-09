@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://belkassem:fullstack2020@cluster0-1iwjt.mongodb.net/test?retryWrites=true&w=majority"
+}
